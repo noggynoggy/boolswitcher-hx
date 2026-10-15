@@ -1,3 +1,5 @@
+Github is a mirror! I work on my private git server, feel free to do PRs, but I might respond late.
+
 # boolswitcher.hx
 
 A vibecoded [Helix](https://github.com/helix-editor/helix) plugin for switching and toggling booleans, written for the [Steel](https://github.com/mattwparas/steel) plugin system.
